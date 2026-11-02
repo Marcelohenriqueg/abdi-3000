@@ -3,7 +3,7 @@ Versão 2.0 | Perfil: Produtividade Industrial
 
 Aplicativo PWA independente, não afiliado à ABDI nem à FGV.
 Contém 166 questões autorais comentadas e 106 tópicos do edital.
-A meta é resolver 3.000 questões históricas distintas até 19/12/2026.
+A meta é resolver 3.000 questões distintas (autorais de IA + históricas) até 19/12/2026. Cada enunciado respondido pela primeira vez conta uma vez. Repetições não aumentam a meta.
 As 3.000 questões antigas NÃO estão incluídas como enunciados completos neste repositório; o app oferece links oficiais e importação de questões autorizadas ou resultados próprios.
 
 INSTALAÇÃO
@@ -20,3 +20,5 @@ https://conhecimento.fgv.br/concursos/epe24/2
 https://conhecimento.fgv.br/concursos/amazul
 
 Copyright: não redistribua enunciados de provas e bancos comerciais sem autorização.
+
+NOVO EM V3: o painel Início e Meta 3.000 têm gráfico de pizza de todas as tentativas com acertos/erros, separação por origem (autoral/histórica) e por disciplina, sem perda do progresso salvo no iPhone.
