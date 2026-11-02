@@ -3,3 +3,20 @@
 /* v2 */
 .row{display:flex;align-items:center;gap:12px}.row.between{justify-content:space-between}.kpi{min-height:126px}.kpi .stat-value{font-size:27px}.target-row{padding:12px 0;border-bottom:1px solid var(--line);line-height:1.4}.target-row:last-child{border:0}.gap-row{margin:12px 0;display:flex;flex-direction:column;gap:10px}.gap-row>strong{line-height:1.38}.gap-row .meter{margin-top:0}.tip{color:#beeedd;font-size:12px;line-height:1.62;background:#103a3d;border-radius:11px;padding:11px 13px}.gap-preview{margin:10px 0}.gap-preview .listnote{margin:5px 0}.reasons{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0}.reason{border:1px solid #3c5970;background:#173047;padding:9px 12px;border-radius:25px;color:#d9ecf5}.reason.selected{background:#206f5a;border-color:#4ae3b0;color:white}.field input[type=number]{appearance:textfield}.gap-row .buttons{margin-top:0}.resource-link a{word-break:break-word}.question{white-space:pre-wrap}.option{white-space:pre-wrap}
 @media(max-width:760px){.bottomnav button{min-width:0;flex:1}.bottomnav button span{font-size:18px}.kpi{min-height:112px}.kpi .stat-value{font-size:24px}.hero h1{font-size:30px}.grid.three{grid-template-columns:1fr 1fr}.grid.three .kpi:last-child{grid-column:span 2}.gap-row{padding:16px}.target-row{gap:15px}.field input{font-size:16px}}
+
+
+/* Missão 3.000 v3 — painel de desempenho */
+.pie-wrap{display:flex;align-items:center;justify-content:center;gap:24px;flex-wrap:wrap;padding:18px 0 8px}
+.score-pie{width:172px;height:172px;flex:0 0 172px;border-radius:50%;border:5px solid rgba(255,255,255,.08);box-shadow:0 5px 26px rgba(0,0,0,.24)}
+.pie-details{min-width:142px;display:flex;flex-direction:column;gap:11px}
+.pie-details .stat-value{font-size:30px}
+.pie-legend{display:flex;align-items:center;gap:8px;color:var(--text);font-size:14px}
+.pie-legend strong{margin-left:auto}
+.pie-swatch{width:12px;height:12px;flex:0 0 12px;border-radius:3px;display:inline-block}
+.pie-swatch.correct{background:var(--mint)}
+.pie-swatch.incorrect{background:var(--red)}
+.study-breakdown{padding:13px 0;border-bottom:1px solid var(--line)}
+.study-breakdown:last-child{border-bottom:0}
+.study-breakdown .listnote{margin:8px 0}
+.study-breakdown strong{font-size:14px}
+@media(max-width:390px){.score-pie{width:142px;height:142px;flex-basis:142px}.pie-wrap{gap:16px}.pie-details{min-width:125px}}
