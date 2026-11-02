@@ -20,3 +20,17 @@
 .study-breakdown .listnote{margin:8px 0}
 .study-breakdown strong{font-size:14px}
 @media(max-width:390px){.score-pie{width:142px;height:142px;flex-basis:142px}.pie-wrap{gap:16px}.pie-details{min-width:125px}}
+
+/* Provas oficiais – resolução pelo caderno e gabarito da FGV */
+.official-list-item{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:16px 0;border-top:1px solid var(--line)}
+.official-list-item:first-of-type{border-top:0}
+.official-list-item strong{line-height:1.4;display:block}
+.official-list-item .listnote{margin:7px 0 0}
+.official-list-item .btn{flex-shrink:0}
+.official-pdf{display:block;width:100%;height:540px;margin-top:12px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.official-question-grid{gap:8px;margin:14px 0 17px}
+.official-question-grid .qdot{width:36px;height:36px;font-size:12px}
+.official-question-grid .qdot.annulled{border-color:var(--warning);color:var(--warning)}
+.official-choice-row{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:16px 0}
+.official-choice{display:grid;place-items:center;min-width:0;text-align:center;font-weight:800;font-size:18px;padding:15px 4px}
+@media(max-width:760px){.official-list-item{align-items:flex-start;flex-direction:column}.official-list-item .btn{width:100%}.official-pdf{height:440px}.official-choice{padding:16px 2px}.official-question-grid .qdot{width:32px;height:33px}}
