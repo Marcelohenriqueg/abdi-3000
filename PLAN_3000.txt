@@ -1,4 +1,4 @@
-MISSÃO ABDI 2026 — META 3.000 QUESTÕES HISTÓRICAS DISTINTAS
+MISSÃO ABDI 2026 — META 3.000 QUESTÕES DISTINTAS: AUTORAIS + HISTÓRICAS
 02/11/2026 a 19/12/2026: 48 dias, meta aproximada de 63 questões novas por dia
 
 Produtividade Industrial: 1.200 (25,0/dia)
@@ -8,6 +8,6 @@ Raciocínio Lógico: 270 (5,6/dia)
 Informática: 270 (5,6/dia)
 TOTAL: 3.000
 
-Itens autorais e repetições não contam para a meta histórica.
+Itens autorais respondidos contam para a meta; repetições não contam novamente. Estatísticas de acerto/erro incluem todas as tentativas.
 Acompanhe tópicos sem cobertura, amostra pequena (menos de 5 questões), taxa de acerto abaixo de 75%, evolução e erros recorrentes.
 As normas específicas da ABDI exigem leitura dos documentos oficiais.
