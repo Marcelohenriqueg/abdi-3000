@@ -1,0 +1,22 @@
+RUMO À ABDI 2026 — MISSÃO 3.000
+Versão 2.0 | Perfil: Produtividade Industrial
+
+Aplicativo PWA independente, não afiliado à ABDI nem à FGV.
+Contém 166 questões autorais comentadas e 106 tópicos do edital.
+A meta é resolver 3.000 questões históricas distintas até 19/12/2026.
+As 3.000 questões antigas NÃO estão incluídas como enunciados completos neste repositório; o app oferece links oficiais e importação de questões autorizadas ou resultados próprios.
+
+INSTALAÇÃO
+1. GitHub → Settings → Pages → Deploy from a branch → main → /(root) → Save.
+2. Abra https://marcelohenriqueg.github.io/abdi-3000/ no Safari.
+3. Compartilhar → Adicionar à Tela de Início.
+
+O progresso fica armazenado no navegador do dispositivo, não no GitHub. Faça backups pelo app antes de trocar de aparelho ou limpar dados do Safari.
+Edite apenas os arquivos necessários ao atualizar, mantendo o mesmo endereço do aplicativo.
+
+Fontes:
+https://conhecimento.fgv.br/concursos/psabdi
+https://conhecimento.fgv.br/concursos/epe24/2
+https://conhecimento.fgv.br/concursos/amazul
+
+Copyright: não redistribua enunciados de provas e bancos comerciais sem autorização.
